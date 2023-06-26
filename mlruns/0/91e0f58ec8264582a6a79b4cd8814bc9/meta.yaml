@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/91e0f58ec8264582a6a79b4cd8814bc9/artifacts
+end_time: 1687786404582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91e0f58ec8264582a6a79b4cd8814bc9
+run_name: marvelous-horse-188
+run_uuid: 91e0f58ec8264582a6a79b4cd8814bc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786400387
+status: 3
+tags: []
+user_id: '1000072424'

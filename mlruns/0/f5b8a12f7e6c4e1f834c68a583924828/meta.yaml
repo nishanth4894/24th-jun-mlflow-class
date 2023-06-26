@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/f5b8a12f7e6c4e1f834c68a583924828/artifacts
+end_time: 1687786313909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5b8a12f7e6c4e1f834c68a583924828
+run_name: funny-wren-197
+run_uuid: f5b8a12f7e6c4e1f834c68a583924828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786310173
+status: 3
+tags: []
+user_id: '1000072424'

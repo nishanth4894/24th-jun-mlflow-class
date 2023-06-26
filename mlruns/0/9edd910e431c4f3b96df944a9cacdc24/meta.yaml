@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/9edd910e431c4f3b96df944a9cacdc24/artifacts
+end_time: 1687786215117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9edd910e431c4f3b96df944a9cacdc24
+run_name: funny-ox-585
+run_uuid: 9edd910e431c4f3b96df944a9cacdc24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786210896
+status: 3
+tags: []
+user_id: '1000072424'

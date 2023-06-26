@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/07fe5f3590c24897844e269b34c0b563/artifacts
+end_time: 1687786259506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07fe5f3590c24897844e269b34c0b563
+run_name: respected-shark-470
+run_uuid: 07fe5f3590c24897844e269b34c0b563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786255746
+status: 3
+tags: []
+user_id: '1000072424'

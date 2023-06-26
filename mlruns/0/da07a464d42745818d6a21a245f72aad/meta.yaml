@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/da07a464d42745818d6a21a245f72aad/artifacts
+end_time: 1687786434693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da07a464d42745818d6a21a245f72aad
+run_name: masked-pug-659
+run_uuid: da07a464d42745818d6a21a245f72aad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786430887
+status: 3
+tags: []
+user_id: '1000072424'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/a05e90c2101040a4a7df9fd8490e6caa/artifacts
+end_time: 1687786394539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a05e90c2101040a4a7df9fd8490e6caa
+run_name: angry-trout-441
+run_uuid: a05e90c2101040a4a7df9fd8490e6caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786390453
+status: 3
+tags: []
+user_id: '1000072424'

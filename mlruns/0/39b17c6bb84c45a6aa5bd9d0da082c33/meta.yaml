@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/39b17c6bb84c45a6aa5bd9d0da082c33/artifacts
+end_time: 1687786424495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39b17c6bb84c45a6aa5bd9d0da082c33
+run_name: beautiful-asp-467
+run_uuid: 39b17c6bb84c45a6aa5bd9d0da082c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786420481
+status: 3
+tags: []
+user_id: '1000072424'

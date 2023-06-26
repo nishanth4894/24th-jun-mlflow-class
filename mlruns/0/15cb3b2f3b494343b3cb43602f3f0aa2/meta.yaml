@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/15cb3b2f3b494343b3cb43602f3f0aa2/artifacts
+end_time: 1687786364872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15cb3b2f3b494343b3cb43602f3f0aa2
+run_name: casual-dolphin-602
+run_uuid: 15cb3b2f3b494343b3cb43602f3f0aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786360675
+status: 3
+tags: []
+user_id: '1000072424'

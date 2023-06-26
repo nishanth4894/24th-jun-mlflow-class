@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/396980fc43c84e95a1498248176a3ea4/artifacts
+end_time: 1687786268662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 396980fc43c84e95a1498248176a3ea4
+run_name: nebulous-wolf-782
+run_uuid: 396980fc43c84e95a1498248176a3ea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786264737
+status: 3
+tags: []
+user_id: '1000072424'

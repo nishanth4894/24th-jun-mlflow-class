@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/b104c87d8a4f44b4bee07226d1b6a181/artifacts
+end_time: 1687786375202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b104c87d8a4f44b4bee07226d1b6a181
+run_name: angry-koi-319
+run_uuid: b104c87d8a4f44b4bee07226d1b6a181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786370968
+status: 3
+tags: []
+user_id: '1000072424'

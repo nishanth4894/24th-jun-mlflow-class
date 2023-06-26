@@ -68,8 +68,11 @@ def main(n_estimators,max_depth):
         mlflow.log_metric("accuracy",accuracy)
         mlflow.log_metric("roc_auc_score",rc_score)
 
+        #mlflow model logging
+        mlflow.sklearn.log_model(rf,"random forest model")
+
         #print(f"mean absolute error: {mae}, mean squared error: {mse}, root mean squared error: {rmse}, r2 score: {r2}")
-        print(f"accuracy: {accuracy}")
+        print(f"accuracy: {accuracy}, roc_auc_score: {rc_score}")
 
 if __name__=="__main__":
     args=argparse.ArgumentParser()

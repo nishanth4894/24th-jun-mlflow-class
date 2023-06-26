@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/a7ed608faae643a8a793d6b3bdbc9fce/artifacts
+end_time: 1687786233644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7ed608faae643a8a793d6b3bdbc9fce
+run_name: melodic-lynx-810
+run_uuid: a7ed608faae643a8a793d6b3bdbc9fce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786230151
+status: 3
+tags: []
+user_id: '1000072424'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/5f36a2230132482282fe7203e918159c/artifacts
+end_time: 1687784694763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f36a2230132482282fe7203e918159c
+run_name: funny-snipe-78
+run_uuid: 5f36a2230132482282fe7203e918159c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687784693951
+status: 3
+tags: []
+user_id: '1000072424'

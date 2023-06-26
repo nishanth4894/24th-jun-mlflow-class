@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/f32847bc27894139bd175dcec68b2d4c/artifacts
+end_time: 1687786225646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f32847bc27894139bd175dcec68b2d4c
+run_name: wise-asp-867
+run_uuid: f32847bc27894139bd175dcec68b2d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786221802
+status: 3
+tags: []
+user_id: '1000072424'

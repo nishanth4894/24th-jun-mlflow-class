@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/08b15dbc0943455fa88e3b8ab1680740/artifacts
+end_time: 1687784525084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08b15dbc0943455fa88e3b8ab1680740
+run_name: salty-whale-107
+run_uuid: 08b15dbc0943455fa88e3b8ab1680740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687784524272
+status: 3
+tags: []
+user_id: '1000072424'

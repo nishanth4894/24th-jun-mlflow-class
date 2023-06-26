@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/435c445ca2734db18d4136a785c20886/artifacts
+end_time: 1687786345925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 435c445ca2734db18d4136a785c20886
+run_name: placid-perch-129
+run_uuid: 435c445ca2734db18d4136a785c20886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786342158
+status: 3
+tags: []
+user_id: '1000072424'

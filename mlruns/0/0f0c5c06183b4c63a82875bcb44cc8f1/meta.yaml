@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/0f0c5c06183b4c63a82875bcb44cc8f1/artifacts
+end_time: 1687786337180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f0c5c06183b4c63a82875bcb44cc8f1
+run_name: welcoming-chimp-276
+run_uuid: 0f0c5c06183b4c63a82875bcb44cc8f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786336767
+status: 4
+tags: []
+user_id: '1000072424'

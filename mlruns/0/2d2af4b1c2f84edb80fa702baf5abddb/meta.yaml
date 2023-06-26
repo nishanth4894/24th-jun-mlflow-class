@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/72424/Desktop/mlflow/mlruns/0/2d2af4b1c2f84edb80fa702baf5abddb/artifacts
+end_time: 1687786242499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d2af4b1c2f84edb80fa702baf5abddb
+run_name: gifted-grub-292
+run_uuid: 2d2af4b1c2f84edb80fa702baf5abddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687786238833
+status: 3
+tags: []
+user_id: '1000072424'
